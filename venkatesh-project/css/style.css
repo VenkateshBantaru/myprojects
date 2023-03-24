@@ -1,0 +1,72 @@
+/* .banner_imge{background-image: url(../images/1c675ce16a70812be555d0d5efdc63b1.png);width: 100%;height: auto;} */
+ul li{list-style: none;padding: 0;}
+ul{padding: 0;}
+a{text-decoration: none;}
+
+.banner_imge{position: relative;margin: 50px 0;}
+.imgbanner img{width: 100%;height: 1000px;}
+
+.header_absolute ul{position: absolute;top: 0;display: flex;left: 50%;transform: translateX(-50%);}
+.header_absolute li{align-self: center;margin: 0 25px;}
+.header_absolute li a{font-weight: 500;font-size: 24px; line-height: 1.2;color: white;}
+
+.blurdetails_absolute{border-radius: 15px;background-color: rgb(86 80 80);padding: 45px 52px;max-width: 500px;width: 100%;margin: 0 auto;position: absolute;top: 20%;opacity: .8;right: 100px;}
+.flexpropty{display: flex;}
+.blurdetails_absolute ul li span{margin-left: auto;margin-bottom: 25px;}
+.blurdetails_absolute h2{font-weight: 600;font-size: 32px; line-height: 1.6;color: white;}
+.blurdetails_absolute ul li {font-weight: 500;font-size: 24px; line-height: 1.2;color: white;}
+.tempdegabsolute h1{font-weight: 600;font-size: 72px; line-height: 1.6;color: white;}
+.tempdegabsolute{position: absolute;bottom: 0px;left: 100px;}
+
+
+/* second sectioon 3 cards */
+.cities_card{margin: 50px 0;}
+.mx_width950 h2{font-size: 60px;text-align: center;}
+.mx_width950{max-width: 1000px;width: 100%;margin: 0 auto;}
+.cities_card .mx_width920 h2{font-size: 50px; text-align: center;}
+.customCard{ display: flex;}
+.customCard .thunder{border-radius: 12px; box-shadow: 0 0 46px rgb(222, 217, 217); margin-right: 40px;max-width: 290px;height: 400px;}
+.customCard .sunny{ border-radius: 12px;box-shadow: 0 0 46px rgb(222, 217, 217);margin-right: 40px;max-width: 290px;height: 400px;}
+.customCard  h1{ padding: 22px 0px 0px 40px;   margin: 0; font-size: 65px;}
+.customCard .cloudy{border-radius: 12px;box-shadow: 0 0 46px rgb(222, 217, 217);margin-right: 40px;max-width: 290px;height: 400px;}
+.customCard  img{border-radius: 12px 12px 0px 0px; max-width: 290px;height: 275px ;}
+.customCard .date_place{ display: flex;}
+.customCard .date_place .delhi { margin-left: auto;padding-right: 40px; margin-top: 33px;}
+.customCard .date_place .delhi h3{margin: 0;font-size: 28px; font-weight: 600;}
+.customCard .date_place .delhi h6{margin: 0; font-size: 19px; font-weight: 400;}
+.customCard .thunder:hover {box-shadow: 0 0 46px rgb(222, 217, 217); border-radius: 12px;max-width: 314px;}
+.customCard .cloudy:hover {box-shadow: 0 0 46px rgb(222, 217, 217); border-radius: 12px;max-width: 314px;}
+.customCard .sunny:hover {box-shadow: 0 0 46px rgb(222, 217, 217); border-radius: 12px;max-width: 314px;}
+.customCard img:hover { border-radius: 12px 12px 0px 0px; max-width: 314px; height: 290px;}
+
+.maxwidth_700{max-width: 700px;margin: 0 auto;border: 0;}
+.input_button {margin: 200px  auto; border-radius: 12px; box-shadow: 0 0 46px rgb(222, 217, 217);border: 0; height: 77px; width: 700px; padding-left: 38px;  font-size: 22px;}
+.earth img{width: 100%;} 
+.customCard11{display: flex;}
+.mx_width950{width: 950px;}
+.news .customCard11 .thunder11 {position: relative; box-shadow: 0 0 46px rgb(222, 217, 217); border-radius: 12px;margin-right: 40px;max-width: 290px;height: 400px;}
+.news .customCard11 .cloudy11 {position: relative; box-shadow: 0 0 46px rgb(222, 217, 217); border-radius: 12px;box-shadow: 0 0 46px rgb(222, 217, 217); border-radius: 12px;margin-right: 40px;max-width: 290px;height: 400px;}
+.news .customCard11 .sunny11 {position: relative; box-shadow: 0 0 46px rgb(222, 217, 217); border-radius: 12px;margin-right: 40px;max-width: 290px;height: 400px;}
+/* .news .customCard11 .thunder_stricks{position: absolute;bottom: 20px;} */
+.news .customCard11 .thunder_stricks {
+    font-size: 26px;
+    max-width: 200px;
+    color: white;
+    position: absolute;
+    margin-left: 35px;
+    margin-top: -81px;
+}
+.black{
+    background-color: rgb(0, 0, 0);
+    margin-top: 200px;
+    width: 1500px;height: 300px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.black .black1{color: white; font-size: 20px; margin-top: 60px; margin-right: 380px;}
+.black .black2{ color: white;font-size: 15px; margin-top: 100px; margin-left: 100px;}
+.black .black3{  color: white;font-size: 15px; margin-top: 100px; margin-right: 100px;}
+
+
+
